@@ -1,10 +1,10 @@
 ### Site metadata
 
-repository: MichaelCurrin/MichaelCurrin.github.io
+repository: uvacoder/my-github-projects-mini
 
 ### Build settings ###
 
-url: https://michaelcurrin.github.io
+url: https://my-github-projects-mini.vercel.app
 baseurl: ""
 
 permalink: pretty
@@ -58,11 +58,11 @@ projects:
 
 social_media:
   # instagram: your_username
-  # linkedin: your_username
+   linkedin: alecbcampbell
   # medium: your_username
   # stackoverflow: 6250733 # Set but decided not to use
-  # twitter: your_username
-  # website: http://your_website_url
+   twitter: VaLandscapes
+   website: http://abclinks.vercel.app
   # youtube: your_username
 
 # source means original, i.e. not forked.
