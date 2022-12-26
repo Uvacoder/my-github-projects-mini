@@ -49,7 +49,7 @@ light:
 
 projects:
   sort_by: stars # pushed | stars
-  limit: 12
+  limit: 20
   exclude:
     archived: true
     forks: false
@@ -68,19 +68,19 @@ social_media:
 # source means original, i.e. not forked.
 topics:
   - name: Python
-    web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=python&sort=
+    web_url: https://github.com/uvacoder?tab=repositories&q=&type=source&language=python&sort=
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/python/python.png
 
   - name: JavaScript
-    web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=javascript&sort=
+    web_url: https://github.com/uvacoder?tab=repositories&q=&type=source&language=javascript&sort=
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png
 
   - name: TypeScript
-    web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=typescript&sort=
+    web_url: https://github.com/uvacoder?tab=repositories&q=&type=source&language=typescript&sort=
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png
 
   - name: Bash / Shell
-    web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=shell&sort=
+    web_url: https://github.com/uvacoder?tab=repositories&q=&type=source&language=shell&sort=
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png
 
   - name: Jekyll
@@ -88,5 +88,5 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/jekyll/jekyll.png
 
   - name: Go
-    web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=go&sort=
+    web_url: https://github.com/uvacoder?tab=repositories&q=&type=source&language=go&sort=
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/go/go.png
